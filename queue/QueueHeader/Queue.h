@@ -5,6 +5,7 @@
 #include <deque>
 
 
+
 template<typename T>
 class queue {
 private:

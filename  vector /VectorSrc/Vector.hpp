@@ -1,6 +1,7 @@
 #include "Vector.h"
 
 
+
 // vector constructors 
 template<typename T,typename Allocator>
 g3::vector<T,Allocator>::vector()

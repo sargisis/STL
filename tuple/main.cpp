@@ -7,7 +7,8 @@ int main() {
     
     auto x = f.get_rest().get_val();
 
-    std::cout << x;
+
+    std::cout << x; 
 
     
 }

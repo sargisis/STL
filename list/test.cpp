@@ -1,5 +1,6 @@
 #include "list.h"
 
+
 using namespace g3;
 int main()
 {
