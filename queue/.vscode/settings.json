@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "iostream": "cpp",
+        "__locale": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "deque": "cpp"
+    }
+}

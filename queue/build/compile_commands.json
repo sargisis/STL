@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/ONLYPROGRAMMING/Desktop/queue/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/Queue.dir/QueueSrc/main.cpp.o -c /Users/ONLYPROGRAMMING/Desktop/queue/QueueSrc/main.cpp",
+  "file": "/Users/ONLYPROGRAMMING/Desktop/queue/QueueSrc/main.cpp",
+  "output": "CMakeFiles/Queue.dir/QueueSrc/main.cpp.o"
+}
+]
